@@ -11,7 +11,7 @@ Dataset link: <a href='https://www.openml.org/search?type=data&status=active&id=
 <h2>General Approach Used:</h2>
 <h4>
 1. The data and target value was extracted from the dictionary(The orginal data was in form of dictionary).<br>
-2. Training and testing set was created by splitiing the original example.
+2. Training and testing set was created by splitiing the original example.<br>
 3. The training set was then augmented by appending it with the changed version of itself (The axis of images were shifted).<br>
 4. The KNeighborsClassifier was used and accuracy of <b>0.9763</b> was achieved.
 </h4>
