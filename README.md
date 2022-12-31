@@ -5,8 +5,7 @@
 <br>
 Dataset link: <a href='https://www.openml.org/search?type=data&status=active&id=554'>Click Here</a>
 <hr>
-<h2>Accuracy Obtained: <h2>
-<h4>0.9763</h4>
+<h2>Accuracy Obtained: 0.9763 </h2>
 <hr>
 <h2>General Approach Used:</h2>
 <h4>
