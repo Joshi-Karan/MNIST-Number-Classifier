@@ -1,5 +1,5 @@
 # MNIST Number Classifier
- 
+![Status](https://img.shields.io/badge/Status-Completed-yellowgreen.svg)
 <h2>About Dataset:</h2>
 <h4>The MNIST database of handwritten digits with 784 features, raw data available at: <a href="http://yann.lecun.com/exdb/mnist/">http://yann.lecun.com/exdb/mnist</a>. It can be split in a training set of the first 60,000 examples, and a test set of 10,000 examples</h4>
 <br>
